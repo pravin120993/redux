@@ -1,0 +1,23 @@
+{
+  "name": "redux-tutorial",
+  "version": "1.0.0",
+  "description": "basic redux tutorial app ",
+  "main": "src/index.js",
+  "dependencies": {
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravin120993/redux.git"
+  },
+  "author": "pravin kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pravin120993/redux/issues"
+  },
+  "homepage": "https://github.com/pravin120993/redux#readme"
+}
